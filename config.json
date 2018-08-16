@@ -1,0 +1,21 @@
+{
+  "max-concurrent-indexers": 2,
+  "dbpath": "data",
+  "repos": {
+    "capnproto-rust": {
+      "url": "https://github.com/capnproto/capnproto-rust.git"
+    },
+    "capnproto": {
+      "url": "https://github.com/capnproto/capnproto.git"
+    },
+    "janestreet/core": {
+      "url": "https://github.com/janestreet/core.git"
+    },
+    "janestreet/core_kernel": {
+      "url": "https://github.com/janestreet/core_kernel.git"
+    },
+    "janestreet/async": {
+      "url": "https://github.com/janestreet/async.git"
+    }
+  }
+}
